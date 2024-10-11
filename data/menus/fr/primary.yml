@@ -13,6 +13,10 @@ items:
   target: "/conception-e-learning/"
   kind: page
   children: []
+- title: Numérique responsable
+  target: "/numerique-responsable/"
+  kind: page
+  children: []
 - title: Portfolio
   target: "/portfolio/"
   kind: page
@@ -27,10 +31,6 @@ items:
   children: []
 - title: Contact
   target: "/contact/"
-  kind: page
-  children: []
-- title: Numérique responsable
-  target: "/numerique-responsable/"
   kind: page
   children: []
 
