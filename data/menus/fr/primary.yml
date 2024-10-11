@@ -33,4 +33,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Formation en responsabilités numériques
+  target: "/numerique-responsable/"
+  kind: page
+  children: []
 
