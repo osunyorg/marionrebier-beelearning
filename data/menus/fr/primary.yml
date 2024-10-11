@@ -17,10 +17,6 @@ items:
   target: "/numerique-responsable/"
   kind: page
   children: []
-- title: Ateliers de sensibilisation
-  target: "/numerique-responsable/"
-  kind: page
-  children: []
 - title: Portfolio
   target: "/portfolio/"
   kind: page
