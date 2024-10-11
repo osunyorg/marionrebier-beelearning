@@ -25,6 +25,10 @@ items:
     target: "/ateliers-de-sensibilisation/"
     kind: page
     children: []
+  - title: Conseil
+    target: "/"
+    kind: page
+    children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
