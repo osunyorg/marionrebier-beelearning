@@ -16,7 +16,11 @@ items:
 - title: Numérique responsable
   target: "/numerique-responsable/"
   kind: page
-  children: []
+  children:
+  - title: Formation en responsabilités numériques
+    target: "/formation-en-responsabilites-numeriques/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/ressources/"
   kind: page
