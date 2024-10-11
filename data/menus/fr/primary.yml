@@ -18,7 +18,7 @@ items:
   kind: page
   children:
   - title: Conseil
-    target: "/conseil-en-responsabilites-numeriques/"
+    target: "/vous-conseiller/"
     kind: page
     children: []
   - title: Formation
