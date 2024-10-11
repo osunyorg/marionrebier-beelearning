@@ -9,4 +9,8 @@ items:
   target: "/"
   kind: page
   children: []
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
 
