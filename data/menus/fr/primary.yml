@@ -9,16 +9,16 @@ items:
   target: "/portfolio/"
   kind: page
   children: []
+- title: Ressources
+  target: "/ressources/"
+  kind: page
+  children: []
 - title: À propos
   target: "/a-propos/"
   kind: page
   children: []
 - title: Contact
   target: "/contact/"
-  kind: page
-  children: []
-- title: Agenda
-  target: "/ressources/"
   kind: page
   children: []
 
