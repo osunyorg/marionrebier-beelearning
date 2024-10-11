@@ -37,4 +37,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Ateliers de sensibilisation
+  target: "/numerique-responsable/"
+  kind: page
+  children: []
 
