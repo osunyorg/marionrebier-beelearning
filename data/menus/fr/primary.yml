@@ -13,4 +13,8 @@ items:
   target: "/"
   kind: page
   children: []
+- title: Contact
+  target: "/"
+  kind: page
+  children: []
 
