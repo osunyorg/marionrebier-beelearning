@@ -17,4 +17,8 @@ items:
   target: "/"
   kind: page
   children: []
+- title: À propos
+  target: "/"
+  kind: page
+  children: []
 
