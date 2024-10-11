@@ -17,7 +17,7 @@ items:
   target: "/numerique-responsable/"
   kind: page
   children:
-  - title: Formation en responsabilités numériques
+  - title: Formation
     target: "/formation/"
     kind: page
     children: []
