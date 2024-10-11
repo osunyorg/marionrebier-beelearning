@@ -5,11 +5,11 @@ items:
   target: "/"
   kind: page
   children: []
-- title: Ressources
+- title: Portfolio
   target: "/"
   kind: page
   children: []
-- title: Portfolio
+- title: Ressources
   target: "/"
   kind: page
   children: []
