@@ -13,8 +13,8 @@ fr:
       linkedin: >-
         https://www.linkedin.com/in/marionrebier/
   permalinks:
-    projects: /projets/:year-:slug/
-    projects_categories: /projets/:slug/
+    projects: /portfolio/:year-:slug/
+    projects_categories: /portfolio/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     persons: /equipe/:slug/
