@@ -21,4 +21,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Ingénierie pédagogique
+  target: "/ingenierie-pedagogique/"
+  kind: page
+  children: []
 
