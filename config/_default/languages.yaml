@@ -15,11 +15,11 @@ fr:
   permalinks:
     projects: /portfolio/:year-:slug/
     projects_categories: /portfolio/:slug/
-    posts: /agenda/:year-:month-:day-:slug/
-    posts_categories: /agenda/:slug/
+    posts: /ressources/:year-:month-:day-:slug/
+    posts_categories: /ressources/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/agenda/
+    authors: /equipe/:slug/ressources/
   taxonomies:
     administrator: administrators
     author: authors
