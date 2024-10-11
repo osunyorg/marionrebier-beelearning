@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Portfolio
-  target: "/"
+  target: "/portfolio/"
   kind: page
   children: []
 - title: Ressources
