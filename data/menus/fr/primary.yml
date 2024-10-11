@@ -9,7 +9,7 @@ items:
   target: "/ingenierie-pedagogique/"
   kind: page
   children: []
-- title: Conception e-learning
+- title: E-learning
   target: "/conception-e-learning/"
   kind: page
   children: []
