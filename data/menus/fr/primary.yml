@@ -1,15 +1,15 @@
 ---
 title: Menu principal
 items:
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
 - title: Ressources
   target: "/"
   kind: page
   children: []
 - title: Portfolio
-  target: "/"
-  kind: page
-  children: []
-- title: Accueil
   target: "/"
   kind: page
   children: []
