@@ -8,6 +8,10 @@ fr:
   languageName: Français
   params:
     social:
+      email: >-
+        marion@beelearning.fr
+      linkedin: >-
+        https://www.linkedin.com/in/marionrebier/
   permalinks:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
