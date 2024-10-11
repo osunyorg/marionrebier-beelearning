@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
+- title: Ressources
+  target: "/"
   kind: page
   children: []
 - title: Portfolio
