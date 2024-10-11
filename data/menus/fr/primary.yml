@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: Ressources
-  target: "/"
+  target: "/ressources/"
   kind: page
   children: []
 - title: À propos
