@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
 - title: Ingénierie pédagogique
   target: "/ingenierie-pedagogique/"
   kind: page
@@ -31,10 +35,6 @@ items:
   children: []
 - title: Contact
   target: "/contact/"
-  kind: page
-  children: []
-- title: Accueil
-  target: "/"
   kind: page
   children: []
 
