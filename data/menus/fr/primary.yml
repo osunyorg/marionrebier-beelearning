@@ -13,11 +13,11 @@ items:
   target: "/"
   kind: page
   children: []
-- title: Contact
+- title: À propos
   target: "/"
   kind: page
   children: []
-- title: À propos
+- title: Contact
   target: "/"
   kind: page
   children: []
