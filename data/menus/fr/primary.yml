@@ -17,10 +17,6 @@ items:
   target: "/numerique-responsable/"
   kind: page
   children:
-  - title: Conseil
-    target: "/"
-    kind: page
-    children: []
   - title: Formation
     target: "/formation/"
     kind: page
