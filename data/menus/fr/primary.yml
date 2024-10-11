@@ -18,7 +18,7 @@ items:
   kind: page
   children: []
 - title: Agenda
-  target: "/agenda/"
+  target: "/ressources/"
   kind: page
   children: []
 
