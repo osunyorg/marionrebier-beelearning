@@ -17,12 +17,12 @@ items:
     target: "/vous-conseiller/"
     kind: page
     children: []
-  - title: Formation
-    target: "/formation/"
-    kind: page
-    children: []
   - title: Ateliers
     target: "/ateliers-de-sensibilisation/"
+    kind: page
+    children: []
+  - title: Formation
+    target: "/formation/"
     kind: page
     children: []
 - title: À propos
