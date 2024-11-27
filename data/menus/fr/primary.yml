@@ -20,7 +20,7 @@ items:
     kind: page
     children: []
     file: content/fr/pages/vous-conseiller/_index.html
-  - title: Formation
+  - title: Formation au numérique responsable
     target: "/formation/"
     kind: page
     children: []
