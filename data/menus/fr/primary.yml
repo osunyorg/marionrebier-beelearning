@@ -15,7 +15,7 @@ items:
   target: "/numerique-responsable/"
   kind: page
   children:
-  - title: Conseil
+  - title: Conseil en numérique responsable
     target: "/vous-conseiller/"
     kind: page
     children: []
