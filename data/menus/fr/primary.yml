@@ -15,11 +15,6 @@ items:
   target: "/numerique-responsable/"
   kind: page
   children:
-  - title: Conseil en numérique responsable
-    target: "/vous-conseiller/"
-    kind: page
-    children: []
-    file: content/fr/pages/vous-conseiller/_index.html
   - title: Formation au numérique responsable
     target: "/formation/"
     kind: page
@@ -30,6 +25,11 @@ items:
     kind: page
     children: []
     file: content/fr/pages/ateliers-de-sensibilisation/_index.html
+  - title: Conseil en numérique responsable
+    target: "/vous-conseiller/"
+    kind: page
+    children: []
+    file: content/fr/pages/vous-conseiller/_index.html
   file: content/fr/pages/numerique-responsable/_index.html
 - title: À propos
   target: "/a-propos/"
