@@ -1,6 +1,11 @@
 ---
 title: Menu principal
 items:
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
+  file: content/fr/_index.html
 - title: Ingénierie pédagogique
   target: "/ingenierie-pedagogique/"
   kind: page
@@ -41,9 +46,4 @@ items:
   kind: page
   children: []
   file: content/fr/pages/contact/_index.html
-- title: Accueil
-  target: "/"
-  kind: page
-  children: []
-  file: content/fr/_index.html
 
