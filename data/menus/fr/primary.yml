@@ -4,27 +4,7 @@ items:
 - title: Offre de service
   target: ''
   kind: blank
-  children:
-  - title: Numérique responsable
-    target: "/numerique-responsable/"
-    kind: page
-    children:
-    - title: Conseil en numérique responsable
-      target: "/vous-conseiller/"
-      kind: page
-      children: []
-      file: content/fr/pages/vous-conseiller/_index.html
-    - title: Ateliers de sensibilisation
-      target: "/ateliers-de-sensibilisation/"
-      kind: page
-      children: []
-      file: content/fr/pages/ateliers-de-sensibilisation/_index.html
-    - title: Formation au numérique responsable
-      target: "/formation/"
-      kind: page
-      children: []
-      file: content/fr/pages/formation/_index.html
-    file: content/fr/pages/numerique-responsable/_index.html
+  children: []
 - title: Ingénierie pédagogique
   target: "/ingenierie-pedagogique/"
   kind: page
@@ -35,6 +15,26 @@ items:
   kind: page
   children: []
   file: content/fr/pages/conception-e-learning/_index.html
+- title: Numérique responsable
+  target: "/numerique-responsable/"
+  kind: page
+  children:
+  - title: Conseil en numérique responsable
+    target: "/vous-conseiller/"
+    kind: page
+    children: []
+    file: content/fr/pages/vous-conseiller/_index.html
+  - title: Ateliers de sensibilisation
+    target: "/ateliers-de-sensibilisation/"
+    kind: page
+    children: []
+    file: content/fr/pages/ateliers-de-sensibilisation/_index.html
+  - title: Formation au numérique responsable
+    target: "/formation/"
+    kind: page
+    children: []
+    file: content/fr/pages/formation/_index.html
+  file: content/fr/pages/numerique-responsable/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
