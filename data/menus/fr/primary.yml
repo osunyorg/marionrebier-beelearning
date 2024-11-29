@@ -6,6 +6,10 @@ items:
   kind: page
   children: []
   file: content/fr/_index.html
+- title: Offre de service
+  target: ''
+  kind: blank
+  children: []
 - title: Ingénierie pédagogique
   target: "/ingenierie-pedagogique/"
   kind: page
@@ -46,8 +50,4 @@ items:
   kind: page
   children: []
   file: content/fr/pages/contact/_index.html
-- title: Offre de service
-  target: ''
-  kind: blank
-  children: []
 
