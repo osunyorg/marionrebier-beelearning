@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
   file: content/fr/pages/ingenierie-pedagogique/_index.html
-- title: Conception e-learning
+- title: Concevoir vos formations digitales
   target: "/conception-e-learning/"
   kind: page
   children: []
