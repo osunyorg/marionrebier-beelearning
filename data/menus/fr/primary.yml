@@ -41,4 +41,9 @@ items:
   kind: page
   children: []
   file: content/fr/pages/contact/_index.html
+- title: Accueil
+  target: "/"
+  kind: page
+  children: []
+  file: content/fr/_index.html
 
