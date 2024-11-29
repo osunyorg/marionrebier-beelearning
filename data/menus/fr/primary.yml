@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Offre de service
-  target: ''
-  kind: blank
-  children: []
 - title: Ingénierie pédagogique
   target: "/ingenierie-pedagogique/"
   kind: page
