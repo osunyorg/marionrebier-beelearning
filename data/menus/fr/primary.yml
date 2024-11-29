@@ -15,6 +15,11 @@ items:
     kind: page
     children: []
     file: content/fr/pages/ingenierie-pedagogique/_index.html
+  - title: Conception e-learning
+    target: "/conception-e-learning/"
+    kind: page
+    children: []
+    file: content/fr/pages/conception-e-learning/_index.html
   - title: Numérique responsable
     target: "/numerique-responsable/"
     kind: page
@@ -35,11 +40,6 @@ items:
       children: []
       file: content/fr/pages/formation/_index.html
     file: content/fr/pages/numerique-responsable/_index.html
-- title: Conception e-learning
-  target: "/conception-e-learning/"
-  kind: page
-  children: []
-  file: content/fr/pages/conception-e-learning/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
