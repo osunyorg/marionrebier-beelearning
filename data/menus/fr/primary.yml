@@ -15,16 +15,16 @@ items:
   target: "/numerique-responsable/"
   kind: page
   children:
-  - title: Formation au numérique responsable
-    target: "/formation/"
-    kind: page
-    children: []
-    file: content/fr/pages/formation/_index.html
   - title: Conseil en numérique responsable
     target: "/vous-conseiller/"
     kind: page
     children: []
     file: content/fr/pages/vous-conseiller/_index.html
+  - title: Formation au numérique responsable
+    target: "/formation/"
+    kind: page
+    children: []
+    file: content/fr/pages/formation/_index.html
   - title: Ateliers de sensibilisation
     target: "/ateliers-de-sensibilisation/"
     kind: page
