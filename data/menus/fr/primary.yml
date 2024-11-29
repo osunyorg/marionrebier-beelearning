@@ -46,4 +46,8 @@ items:
   kind: page
   children: []
   file: content/fr/pages/contact/_index.html
+- title: Offre de service
+  target: ''
+  kind: blank
+  children: []
 
