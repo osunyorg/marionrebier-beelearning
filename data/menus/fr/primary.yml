@@ -25,7 +25,7 @@ items:
     kind: page
     children: []
     file: content/fr/pages/ateliers-de-sensibilisation/_index.html
-  - title: Conseil en numérique responsable
+  - title: Conseil en pédagogie et numérique responsable
     target: "/conseil/"
     kind: page
     children: []
