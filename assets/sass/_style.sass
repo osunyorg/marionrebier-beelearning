@@ -21,6 +21,12 @@ html
                     border-radius: 100%
             .page-title
                 @include meta
+.block-chapter
+    &--alt_background
+        .chapter
+            background: $color-pink !important
+            @include in-page-with-sidebar
+                border-radius: 10px
 .blocks
     @include in-page-with-sidebar
         .block:last-child:is(.block-call_to_action, .block-chapter--accent_background, .block-chapter--alt_background, .block-timeline--horizontal, .block-pages--cards)
