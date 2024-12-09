@@ -1,3 +1,6 @@
+html
+    @include media-breakpoint-up(desktop)
+        font-size: Min(Max(1vw, 14px), 16px)
 .hero--image-square
     .content
         figure
@@ -8,8 +11,20 @@
     .media
         img
             filter: saturate(0)
-.block-call_to_action
-    margin-bottom: $spacing-5
+    .grid
+        @include media-breakpoint-up(desktop)
+            grid-template-columns: repeat(4, 1fr)
+        article
+            .media
+                img
+                    aspect-ratio: 1
+                    border-radius: 100%
+            .page-title
+                @include meta
+.blocks
+    @include in-page-with-sidebar
+        .block:last-child:is(.block-call_to_action, .block-chapter--accent_background, .block-chapter--alt_background, .block-timeline--horizontal, .block-pages--cards)
+            margin-bottom: $spacing-5
 .organization
     .media
         picture
