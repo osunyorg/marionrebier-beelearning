@@ -26,10 +26,10 @@ items:
     children: []
     file: content/fr/pages/numerique-responsable/ateliers-de-sensibilisation/_index.html
   - title: Formation au numérique responsable
-    target: "/numerique-responsable/formation/"
+    target: "/numerique-responsable/formation-au-numerique-responsable/"
     kind: page
     children: []
-    file: content/fr/pages/numerique-responsable/formation/_index.html
+    file: content/fr/pages/numerique-responsable/formation-au-numerique-responsable/_index.html
   - title: Formation en pédagogie et responsabilités
     target: "/numerique-responsable/formation-1/"
     kind: page
