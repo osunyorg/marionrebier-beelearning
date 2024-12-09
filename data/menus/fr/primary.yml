@@ -31,10 +31,10 @@ items:
     children: []
     file: content/fr/pages/formation/_index.html
   - title: Formation en pédagogie et responsabilités
-    target: "/numerique-responsable/"
+    target: "/formation-1/"
     kind: page
     children: []
-    file: content/fr/pages/numerique-responsable/_index.html
+    file: content/fr/pages/formation-1/_index.html
   file: content/fr/pages/numerique-responsable/_index.html
 - title: À propos
   target: "/a-propos/"
