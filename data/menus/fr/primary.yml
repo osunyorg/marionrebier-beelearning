@@ -16,10 +16,10 @@ items:
   kind: page
   children:
   - title: Conseil en pédagogie et responsabilités
-    target: "/numerique-responsable/conseil/"
+    target: "/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/"
     kind: page
     children: []
-    file: content/fr/pages/numerique-responsable/conseil/_index.html
+    file: content/fr/pages/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/_index.html
   - title: Ateliers de sensibilisation
     target: "/numerique-responsable/ateliers-de-sensibilisation/"
     kind: page
