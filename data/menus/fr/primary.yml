@@ -15,7 +15,7 @@ items:
   target: "/numerique-responsable/"
   kind: page
   children:
-  - title: Conseil en pédagogie et responsabilités numériques
+  - title: Conseil en pédagogie et responsabilités
     target: "/conseil/"
     kind: page
     children: []
