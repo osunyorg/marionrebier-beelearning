@@ -19,3 +19,6 @@ params:
   posts:
     index:
       layout: grid
+  logo:
+    header: /assets/images/logo.svg
+    footer: /assets/images/logo-typo-verte.svg
