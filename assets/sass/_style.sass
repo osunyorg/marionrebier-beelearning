@@ -1,6 +1,12 @@
 html
     @include media-breakpoint-up(desktop)
         font-size: Min(Max(1vw, 14px), 16px)
+.breadcrumb-container
+    background: $color-green
+    margin-bottom: $spacing-4
+    .breadcrumb-nav
+        padding-bottom: $spacing-2
+        padding-top: $spacing-2
 .hero--image-square
     .content
         figure
@@ -24,13 +30,12 @@ html
 .block-chapter
     &--alt_background
         .chapter
-            background: $color-pink !important
             @include in-page-with-sidebar
                 border-radius: 10px
 .blocks
-    @include in-page-with-sidebar
-        .block:last-child:is(.block-call_to_action, .block-chapter--accent_background, .block-chapter--alt_background, .block-timeline--horizontal, .block-pages--cards)
-            margin-bottom: $spacing-5
+    .block-call_to_action
+        // https://github.com/osunyorg/theme/issues/812
+        margin-bottom: $spacing-5 !important
 .organization
     .media
         picture

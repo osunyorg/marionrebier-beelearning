@@ -11,7 +11,7 @@ params:
     dropdown:
       linkToLevel1: true
   breadcrumb:
-    position: hero-end
+    position: after-hero
   summary:
     position: hero
   search:
