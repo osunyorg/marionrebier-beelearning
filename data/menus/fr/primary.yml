@@ -5,11 +5,13 @@ items:
   target: "/ingenierie-pedagogique/"
   kind: page
   children: []
+  path: "/pages/ingenierie-pedagogique"
   file: content/fr/pages/ingenierie-pedagogique/_index.html
 - title: Conception e-learning
   target: "/conception-e-learning/"
   kind: page
   children: []
+  path: "/pages/conception-e-learning"
   file: content/fr/pages/conception-e-learning/_index.html
 - title: Numérique responsable
   target: "/numerique-responsable/"
@@ -19,31 +21,38 @@ items:
     target: "/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/"
     kind: page
     children: []
+    path: "/pages/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques"
     file: content/fr/pages/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/_index.html
   - title: Ateliers de sensibilisation
     target: "/numerique-responsable/ateliers-de-sensibilisation/"
     kind: page
     children: []
+    path: "/pages/numerique-responsable/ateliers-de-sensibilisation"
     file: content/fr/pages/numerique-responsable/ateliers-de-sensibilisation/_index.html
   - title: Formation au numérique responsable
     target: "/numerique-responsable/formation-au-numerique-responsable/"
     kind: page
     children: []
+    path: "/pages/numerique-responsable/formation-au-numerique-responsable"
     file: content/fr/pages/numerique-responsable/formation-au-numerique-responsable/_index.html
   - title: Formation en pédagogie et responsabilités
     target: "/numerique-responsable/formation-en-pedagogie-et-responsabilites/"
     kind: page
     children: []
+    path: "/pages/numerique-responsable/formation-en-pedagogie-et-responsabilites"
     file: content/fr/pages/numerique-responsable/formation-en-pedagogie-et-responsabilites/_index.html
+  path: "/pages/numerique-responsable"
   file: content/fr/pages/numerique-responsable/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
   children: []
+  path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
   children: []
+  path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
