@@ -8,8 +8,10 @@ params:
     toc:
       disabled: false
   menu:
-    dropdown:
-      linkToLevel1: true
+    primary:
+      level_2:
+        title:
+          active: true
   breadcrumb:
     position: after-hero
   summary:
