@@ -16,40 +16,40 @@ items:
   path: "/pages/conception-e-learning"
   file: content/fr/pages/conception-e-learning/_index.html
 - title: Responsabilités numériques
-  target: "/numerique-responsable/"
+  target: "/responsabilites-numeriques/"
   kind: page
   new_tab: false
   children:
   - title: Conseil en pédagogie et responsabilités
-    target: "/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/"
+    target: "/responsabilites-numeriques/conseil-en-pedagogie-et-responsabilites-numeriques/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques"
-    file: content/fr/pages/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/_index.html
+    path: "/pages/responsabilites-numeriques/conseil-en-pedagogie-et-responsabilites-numeriques"
+    file: content/fr/pages/responsabilites-numeriques/conseil-en-pedagogie-et-responsabilites-numeriques/_index.html
   - title: Ateliers de sensibilisation
-    target: "/numerique-responsable/ateliers-de-sensibilisation/"
+    target: "/responsabilites-numeriques/ateliers-de-sensibilisation/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/numerique-responsable/ateliers-de-sensibilisation"
-    file: content/fr/pages/numerique-responsable/ateliers-de-sensibilisation/_index.html
+    path: "/pages/responsabilites-numeriques/ateliers-de-sensibilisation"
+    file: content/fr/pages/responsabilites-numeriques/ateliers-de-sensibilisation/_index.html
   - title: Formation en responsabilités numériques
-    target: "/numerique-responsable/formation-en-responsabilites-numeriques/"
+    target: "/responsabilites-numeriques/formation-en-responsabilites-numeriques/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/numerique-responsable/formation-en-responsabilites-numeriques"
-    file: content/fr/pages/numerique-responsable/formation-en-responsabilites-numeriques/_index.html
+    path: "/pages/responsabilites-numeriques/formation-en-responsabilites-numeriques"
+    file: content/fr/pages/responsabilites-numeriques/formation-en-responsabilites-numeriques/_index.html
   - title: Formation en pédagogie et responsabilités
-    target: "/numerique-responsable/formation-en-pedagogie-et-responsabilites/"
+    target: "/responsabilites-numeriques/formation-en-pedagogie-et-responsabilites/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/numerique-responsable/formation-en-pedagogie-et-responsabilites"
-    file: content/fr/pages/numerique-responsable/formation-en-pedagogie-et-responsabilites/_index.html
-  path: "/pages/numerique-responsable"
-  file: content/fr/pages/numerique-responsable/_index.html
+    path: "/pages/responsabilites-numeriques/formation-en-pedagogie-et-responsabilites"
+    file: content/fr/pages/responsabilites-numeriques/formation-en-pedagogie-et-responsabilites/_index.html
+  path: "/pages/responsabilites-numeriques"
+  file: content/fr/pages/responsabilites-numeriques/_index.html
 - title: À propos
   target: "/a-propos/"
   kind: page
