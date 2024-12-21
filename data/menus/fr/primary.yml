@@ -35,12 +35,12 @@ items:
     path: "/pages/numerique-responsable/ateliers-de-sensibilisation"
     file: content/fr/pages/numerique-responsable/ateliers-de-sensibilisation/_index.html
   - title: Formation en responsabilités numériques
-    target: "/numerique-responsable/formation-au-numerique-responsable/"
+    target: "/numerique-responsable/formation-en-responsabilites-numeriques/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/numerique-responsable/formation-au-numerique-responsable"
-    file: content/fr/pages/numerique-responsable/formation-au-numerique-responsable/_index.html
+    path: "/pages/numerique-responsable/formation-en-responsabilites-numeriques"
+    file: content/fr/pages/numerique-responsable/formation-en-responsabilites-numeriques/_index.html
   - title: Formation en pédagogie et responsabilités
     target: "/numerique-responsable/formation-en-pedagogie-et-responsabilites/"
     kind: page
