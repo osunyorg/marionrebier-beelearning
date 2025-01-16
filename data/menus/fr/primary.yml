@@ -34,7 +34,7 @@ items:
     children: []
     path: "/pages/numerique-responsable/ateliers-de-sensibilisation"
     file: content/fr/pages/numerique-responsable/ateliers-de-sensibilisation/_index.html
-  - title: Formation en responsabilités numériques
+  - title: Formation en numérique responsable
     target: "/numerique-responsable/formation-en-numerique-responsable/"
     kind: page
     new_tab: false
