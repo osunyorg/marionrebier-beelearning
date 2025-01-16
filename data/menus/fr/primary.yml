@@ -15,7 +15,7 @@ items:
   children: []
   path: "/pages/conception-e-learning"
   file: content/fr/pages/conception-e-learning/_index.html
-- title: Responsabilités numériques
+- title: Numérique responsable
   target: "/numerique-responsable/"
   kind: page
   new_tab: false
