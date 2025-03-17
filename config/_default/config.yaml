@@ -13,7 +13,7 @@ params:
         title:
           active: true
   breadcrumb:
-    position: after-hero
+    position: hero-end
   summary:
     position: hero
   search:
