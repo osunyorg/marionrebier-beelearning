@@ -50,6 +50,13 @@ items:
     file: content/fr/pages/numerique-responsable/formation-en-pedagogie-et-responsabilites/_index.html
   path: "/pages/numerique-responsable"
   file: content/fr/pages/numerique-responsable/_index.html
+- title: Portfolio
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Ressources
   target: "/ressources/"
   kind: page
