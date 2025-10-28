@@ -8,7 +8,7 @@ items:
   children: []
   path: "/pages/ingenierie-pedagogique"
   file: content/fr/pages/ingenierie-pedagogique/_index.html
-- title: Conception e-learning
+- title: Digital learning
   target: "/digital-learning/"
   kind: page
   new_tab: false
@@ -27,13 +27,6 @@ items:
     children: []
     path: "/pages/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques"
     file: content/fr/pages/numerique-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/_index.html
-  - title: Ateliers de sensibilisation
-    target: "/numerique-responsable/ateliers-de-sensibilisation/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/numerique-responsable/ateliers-de-sensibilisation"
-    file: content/fr/pages/numerique-responsable/ateliers-de-sensibilisation/_index.html
   - title: Formation en numérique responsable
     target: "/numerique-responsable/formation-en-numerique-responsable/"
     kind: page
