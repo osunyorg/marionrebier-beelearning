@@ -9,12 +9,12 @@ items:
   path: "/pages/ingenierie-pedagogique"
   file: content/fr/pages/ingenierie-pedagogique/_index.html
 - title: Conception e-learning
-  target: "/conception-e-learning/"
+  target: "/digital-learning/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/conception-e-learning"
-  file: content/fr/pages/conception-e-learning/_index.html
+  path: "/pages/digital-learning"
+  file: content/fr/pages/digital-learning/_index.html
 - title: Numérique responsable
   target: "/numerique-responsable/"
   kind: page
