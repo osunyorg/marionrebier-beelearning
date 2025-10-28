@@ -15,7 +15,7 @@ items:
   children: []
   path: "/pages/digital-learning"
   file: content/fr/pages/digital-learning/_index.html
-- title: Numérique responsable
+- title: Formation responsable
   target: "/formation-responsable/"
   kind: page
   new_tab: false
