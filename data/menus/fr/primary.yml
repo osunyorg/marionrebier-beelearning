@@ -21,12 +21,12 @@ items:
   new_tab: false
   children:
   - title: Conseil en pédagogie et responsabilités
-    target: "/formation-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/"
+    target: "/formation-responsable/conseil-en-pedagogie-et-responsabilites/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/formation-responsable/conseil-en-pedagogie-et-responsabilites-numeriques"
-    file: content/fr/pages/formation-responsable/conseil-en-pedagogie-et-responsabilites-numeriques/_index.html
+    path: "/pages/formation-responsable/conseil-en-pedagogie-et-responsabilites"
+    file: content/fr/pages/formation-responsable/conseil-en-pedagogie-et-responsabilites/_index.html
   - title: Formation en numérique responsable
     target: "/formation-responsable/formation-en-numerique-responsable/"
     kind: page
