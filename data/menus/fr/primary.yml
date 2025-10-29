@@ -15,13 +15,13 @@ items:
   children: []
   path: "/pages/digital-learning"
   file: content/fr/pages/digital-learning/_index.html
-- title: Formations
-  target: "/formations/"
+- title: Formation
+  target: "/formation/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/formations"
-  file: content/fr/pages/formations/_index.html
+  path: "/pages/formation"
+  file: content/fr/pages/formation/_index.html
 - title: Ressources
   target: "/ressources/"
   kind: page
