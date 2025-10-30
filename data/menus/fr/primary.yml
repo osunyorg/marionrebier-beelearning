@@ -23,7 +23,7 @@ items:
   path: "/pages/formation"
   file: content/fr/pages/formation/_index.html
 - title: Portfolio
-  target: "/portfolio/"
+  target: "/"
   kind: page
   new_tab: false
   children: []
