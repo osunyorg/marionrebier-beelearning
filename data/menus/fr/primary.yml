@@ -22,13 +22,6 @@ items:
   children: []
   path: "/pages/formation"
   file: content/fr/pages/formation/_index.html
-- title: Rédaction
-  target: "/redaction/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/redaction"
-  file: content/fr/pages/redaction/_index.html
 - title: Ressources
   target: "/ressources/"
   kind: page
