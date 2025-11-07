@@ -1,27 +1,41 @@
 ---
 title: Menu principal
 items:
+- title: Offre de services
+  target: "/offre-de-services/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/offre-de-services"
+  file: content/fr/pages/offre-de-services/_index.html
 - title: Ingénierie pédagogique
-  target: "/ingenierie-pedagogique/"
+  target: "/offre-de-services/ingenierie-pedagogique/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/ingenierie-pedagogique"
-  file: content/fr/pages/ingenierie-pedagogique/_index.html
+  path: "/pages/offre-de-services/ingenierie-pedagogique"
+  file: content/fr/pages/offre-de-services/ingenierie-pedagogique/_index.html
 - title: Digital learning
-  target: "/digital-learning/"
+  target: "/offre-de-services/digital-learning/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/digital-learning"
-  file: content/fr/pages/digital-learning/_index.html
+  path: "/pages/offre-de-services/digital-learning"
+  file: content/fr/pages/offre-de-services/digital-learning/_index.html
 - title: Formation
-  target: "/formation/"
+  target: "/offre-de-services/formation/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/formation"
-  file: content/fr/pages/formation/_index.html
+  path: "/pages/offre-de-services/formation"
+  file: content/fr/pages/offre-de-services/formation/_index.html
+- title: Portfolio
+  target: "/portfolio/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Ressources
   target: "/ressources/"
   kind: page
