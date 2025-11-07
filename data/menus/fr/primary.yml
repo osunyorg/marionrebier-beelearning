@@ -1,48 +1,34 @@
 ---
 title: Menu principal
 items:
-- title: Offre de services
-  target: "/offre-de-services/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Ingénierie pédagogique
-    target: "/offre-de-services/ingenierie-pedagogique/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/offre-de-services/ingenierie-pedagogique"
-    file: content/fr/pages/offre-de-services/ingenierie-pedagogique/_index.html
-  - title: Digital learning
-    target: "/offre-de-services/digital-learning/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/offre-de-services/digital-learning"
-    file: content/fr/pages/offre-de-services/digital-learning/_index.html
-  - title: Formation
-    target: "/offre-de-services/formation/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/offre-de-services/formation"
-    file: content/fr/pages/offre-de-services/formation/_index.html
-  - title: Rédaction
-    target: "/offre-de-services/redaction/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/offre-de-services/redaction"
-    file: content/fr/pages/offre-de-services/redaction/_index.html
-  path: "/pages/offre-de-services"
-  file: content/fr/pages/offre-de-services/_index.html
-- title: Portfolio
-  target: "/portfolio/"
+- title: Ingénierie pédagogique
+  target: "/"
   kind: page
   new_tab: false
   children: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
+  path: "/"
+  file: content/fr/_index.html
+- title: Digital learning
+  target: "/digital-learning/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/digital-learning"
+  file: content/fr/pages/digital-learning/_index.html
+- title: Formation responsable
+  target: "/formation-responsable/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/formation-responsable"
+  file: content/fr/pages/formation-responsable/_index.html
+- title: Rédaction accessible
+  target: "/redaction-accessible/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/redaction-accessible"
+  file: content/fr/pages/redaction-accessible/_index.html
 - title: Ressources
   target: "/ressources/"
   kind: page
