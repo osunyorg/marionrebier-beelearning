@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: Offre de services
+  target: "/offre-de-services/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/offre-de-services"
+  file: content/fr/pages/offre-de-services/_index.html
 - title: Ingénierie pédagogique
   target: "/ingenierie-pedagogique/"
   kind: page
@@ -22,6 +29,13 @@ items:
   children: []
   path: "/pages/formation"
   file: content/fr/pages/formation/_index.html
+- title: Rédaction
+  target: "/redaction/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/redaction"
+  file: content/fr/pages/redaction/_index.html
 - title: Ressources
   target: "/ressources/"
   kind: page
