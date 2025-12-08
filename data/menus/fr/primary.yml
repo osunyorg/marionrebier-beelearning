@@ -27,13 +27,6 @@ items:
     children: []
     path: "/pages/offre-de-services/formation"
     file: content/fr/pages/offre-de-services/formation/_index.html
-  - title: Rédaction
-    target: "/offre-de-services/redaction/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/offre-de-services/redaction"
-    file: content/fr/pages/offre-de-services/redaction/_index.html
   path: "/pages/offre-de-services"
   file: content/fr/pages/offre-de-services/_index.html
 - title: Portfolio
