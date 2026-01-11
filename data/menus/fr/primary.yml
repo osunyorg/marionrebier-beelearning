@@ -27,6 +27,13 @@ items:
     children: []
     path: "/pages/offre-de-services/formation"
     file: content/fr/pages/offre-de-services/formation/_index.html
+  - title: Formation de formateur·rices
+    target: "/offre-de-services/formation-de-formateurrices/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/offre-de-services/formation-de-formateurrices"
+    file: content/fr/pages/offre-de-services/formation-de-formateurrices/_index.html
   path: "/pages/offre-de-services"
   file: content/fr/pages/offre-de-services/_index.html
 - title: Portfolio
