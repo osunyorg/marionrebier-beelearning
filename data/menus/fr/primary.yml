@@ -2,66 +2,88 @@
 title: Menu principal
 items:
 - title: Offre de services
+  slug: offre-de-services
   target: "/offre-de-services/"
   kind: page
   new_tab: false
   children:
   - title: Ingénierie pédagogique
+    slug: ingenierie-pedagogique
     target: "/offre-de-services/ingenierie-pedagogique/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/offre-de-services/ingenierie-pedagogique"
     file: content/fr/pages/offre-de-services/ingenierie-pedagogique/_index.html
   - title: Digital learning
+    slug: digital-learning
     target: "/offre-de-services/digital-learning/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/offre-de-services/digital-learning"
     file: content/fr/pages/offre-de-services/digital-learning/_index.html
   - title: Formation
+    slug: formation
     target: "/offre-de-services/formation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/offre-de-services/formation"
     file: content/fr/pages/offre-de-services/formation/_index.html
   - title: Formation de formateur·rices
+    slug: formation-de-formateur-rices
     target: "/offre-de-services/formation-de-formateurrices/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/offre-de-services/formation-de-formateurrices"
     file: content/fr/pages/offre-de-services/formation-de-formateurrices/_index.html
+  descendants_targets:
+  - "/offre-de-services/digital-learning/"
+  - "/offre-de-services/formation-de-formateurrices/"
+  - "/offre-de-services/formation/"
+  - "/offre-de-services/ingenierie-pedagogique/"
   path: "/pages/offre-de-services"
   file: content/fr/pages/offre-de-services/_index.html
 - title: Portfolio
+  slug: portfolio
   target: "/portfolio/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Ressources
+  slug: ressources
   target: "/ressources/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Contact
+  slug: contact
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
 
