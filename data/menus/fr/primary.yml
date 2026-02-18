@@ -16,8 +16,8 @@ items:
     descendants_targets: []
     path: "/pages/offre-de-services/ingenierie-pedagogique"
     file: content/fr/pages/offre-de-services/ingenierie-pedagogique/_index.html
-  - title: Digital learning
-    slug: digital-learning
+  - title: Conception e-learning
+    slug: conception-e-learning
     target: "/offre-de-services/e-learning/"
     kind: page
     new_tab: false
