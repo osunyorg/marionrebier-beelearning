@@ -4,6 +4,7 @@ removePathAccents: true
 pagination:
   pagerSize: 30
 params:
+  plausible: beelearning.fr
   home:
     toc:
       disabled: false
