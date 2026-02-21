@@ -18,13 +18,13 @@ items:
     file: content/fr/pages/offre-de-services/ingenierie-pedagogique/_index.html
   - title: Conception e-learning
     slug: conception-e-learning
-    target: "/offre-de-services/e-learning/"
+    target: "/offre-de-services/conception-e-learning/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/offre-de-services/e-learning"
-    file: content/fr/pages/offre-de-services/e-learning/_index.html
+    path: "/pages/offre-de-services/conception-e-learning"
+    file: content/fr/pages/offre-de-services/conception-e-learning/_index.html
   - title: Formation
     slug: formation
     target: "/offre-de-services/formation/"
@@ -36,16 +36,16 @@ items:
     file: content/fr/pages/offre-de-services/formation/_index.html
   - title: Formation de formateur·rices
     slug: formation-de-formateur-rices
-    target: "/offre-de-services/formation-de-formateurrices/"
+    target: "/offre-de-services/formation-de-formateurices/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/offre-de-services/formation-de-formateurrices"
-    file: content/fr/pages/offre-de-services/formation-de-formateurrices/_index.html
+    path: "/pages/offre-de-services/formation-de-formateurices"
+    file: content/fr/pages/offre-de-services/formation-de-formateurices/_index.html
   descendants_targets:
-  - "/offre-de-services/e-learning/"
-  - "/offre-de-services/formation-de-formateurrices/"
+  - "/offre-de-services/conception-e-learning/"
+  - "/offre-de-services/formation-de-formateurices/"
   - "/offre-de-services/formation/"
   - "/offre-de-services/ingenierie-pedagogique/"
   path: "/pages/offre-de-services"
