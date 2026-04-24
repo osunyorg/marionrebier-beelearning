@@ -15,266 +15,266 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/redaction-accessible/"
+from = "/redaction-accessible/index.html"
 to = "/offre-de-services/redaction/"
 
 [[redirects]]
-from = "/ingenierie-pedagogique-2/"
+from = "/ingenierie-pedagogique-2/index.html"
 to = "/portfolio/ingenierie/"
 
 [[redirects]]
-from = "/actualites/2024-09-16-glossaire-numerique-responsable/"
+from = "/actualites/2024-09-16-glossaire-numerique-responsable/index.html"
 to = "/ressources/2024-10-11-glossaire-numerique-responsable/"
 
 [[redirects]]
-from = "/ressources/2025-05-09-ia-un-probleme/"
+from = "/ressources/2025-05-09-ia-un-probleme/index.html"
 to = "/ressources/2025-05-23-ia-un-probleme/"
 
 [[redirects]]
-from = "/offre-de-services/formation-de-formateurrices/"
+from = "/offre-de-services/formation-de-formateurrices/index.html"
 to = "/offre-de-services/formation-de-formateurices/"
 
 [[redirects]]
-from = "/ressources/2025-08-18-soba-lms/"
+from = "/ressources/2025-08-18-soba-lms/index.html"
 to = "/ressources/2025-08-11-soba-lms/"
 
 [[redirects]]
-from = "/ressources/droits-humains/"
+from = "/ressources/droits-humains/index.html"
 to = "/ressources/extraction-miniere/"
 
 [[redirects]]
-from = "/ressources/2025-06-16-grand-entretien-avec-olivier-hamant/"
+from = "/ressources/2025-06-16-grand-entretien-avec-olivier-hamant/index.html"
 to = "/ressources/2025-06-14-grand-entretien-avec-olivier-hamant/"
 
 [[redirects]]
-from = "/ressources/2026-02-12-des-outils-libres-pour-leducation/"
+from = "/ressources/2026-02-12-des-outils-libres-pour-leducation/index.html"
 to = "/ressources/2026-01-08-des-outils-libres-pour-leducation/"
 
 [[redirects]]
-from = "/conception-digital-learning/"
+from = "/conception-digital-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
-from = "/portfolio/direction-de-projet-2/"
+from = "/portfolio/direction-de-projet-2/index.html"
 to = "/portfolio/direction-de-projet/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/ressources/"
 
 [[redirects]]
-from = "/ressources/2025-08-17-sobriete-editoriale-reduire-son-impact-environnemental/"
+from = "/ressources/2025-08-17-sobriete-editoriale-reduire-son-impact-environnemental/index.html"
 to = "/ressources/2025-09-15-sobriete-editoriale-reduire-son-impact-environnemental/"
 
 [[redirects]]
-from = "/portfolio/2024-activite-les-7-messages-cles/"
+from = "/portfolio/2024-activite-les-7-messages-cles/index.html"
 to = "/portfolio/2024-les-7-messages-cles/"
 
 [[redirects]]
-from = "/formation-responsable/"
+from = "/formation-responsable/index.html"
 to = "/offre-de-services/formation/"
 
 [[redirects]]
-from = "/offre-de-services/e-learning/"
+from = "/offre-de-services/e-learning/index.html"
 to = "/offre-de-services/conception-e-learning/"
 
 [[redirects]]
-from = "/ressources/accessibilite/"
+from = "/ressources/accessibilite/index.html"
 to = "/ressources/accessibilite-numerique/"
 
 [[redirects]]
-from = "/portfolio/2023-formation-risques-numeriques-et-resilience/"
+from = "/portfolio/2023-formation-risques-numeriques-et-resilience/index.html"
 to = "/portfolio/2024-risques-numeriques-et-resilience/"
 
 [[redirects]]
-from = "/direction-de-projet/"
+from = "/direction-de-projet/index.html"
 to = "/portfolio/direction-de-projet/"
 
 [[redirects]]
-from = "/ressources/2025-10-23-laccessibilite-des-formations-quelques-bonnes-pratiques/"
+from = "/ressources/2025-10-23-laccessibilite-des-formations-quelques-bonnes-pratiques/index.html"
 to = "/ressources/2025-10-27-accessibilite-des-formations-bonnes-pratiques/"
 
 [[redirects]]
-from = "/ressources/2025-11-10-accessibilite-inclusion-au-dela-de-la-conformite/"
+from = "/ressources/2025-11-10-accessibilite-inclusion-au-dela-de-la-conformite/index.html"
 to = "/ressources/2025-11-19-accessibilite-inclusion-au-dela-de-la-conformite/"
 
 [[redirects]]
-from = "/ingenierie-pedagogique/"
+from = "/ingenierie-pedagogique/index.html"
 to = "/offre-de-services/ingenierie-pedagogique/"
 
 [[redirects]]
-from = "/agenda/"
+from = "/agenda/index.html"
 to = "/ressources/"
 
 [[redirects]]
-from = "/portfolio/e-learning/"
+from = "/portfolio/e-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
-from = "/ressources/2025-03-07-glossaire-numerique-responsable/"
+from = "/ressources/2025-03-07-glossaire-numerique-responsable/index.html"
 to = "/ressources/2024-10-11-glossaire-numerique-responsable/"
 
 [[redirects]]
-from = "/ressources/2025-10-22-accessibilite-des-formations-bonnes-pratiques/"
+from = "/ressources/2025-10-22-accessibilite-des-formations-bonnes-pratiques/index.html"
 to = "/ressources/2025-10-27-accessibilite-des-formations-bonnes-pratiques/"
 
 [[redirects]]
-from = "/ressources/2025-05-23-soba-lms/"
+from = "/ressources/2025-05-23-soba-lms/index.html"
 to = "/ressources/2025-08-11-soba-lms/"
 
 [[redirects]]
-from = "/portfolio/conception-digital-learning/"
+from = "/portfolio/conception-digital-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
-from = "/portfolio/2024-formation-risques-numeriques-et-resilience/"
+from = "/portfolio/2024-formation-risques-numeriques-et-resilience/index.html"
 to = "/portfolio/2024-risques-numeriques-et-resilience/"
 
 [[redirects]]
-from = "/ressources/pedagogie-et-responsabilites/"
+from = "/ressources/pedagogie-et-responsabilites/index.html"
 to = "/ressources/formation-responsable/"
 
 [[redirects]]
-from = "/equipe/marion-rebier/actualites/"
+from = "/equipe/marion-rebier/actualites/index.html"
 to = "/equipe/marion-rebier/ressources/"
 
 [[redirects]]
-from = "/ressources/2025-08-18-sobriete-editoriale-reduire-son-impact-environnemental/"
+from = "/ressources/2025-08-18-sobriete-editoriale-reduire-son-impact-environnemental/index.html"
 to = "/ressources/2025-09-15-sobriete-editoriale-reduire-son-impact-environnemental/"
 
 [[redirects]]
-from = "/ressources/2025-04-24-auditer-un-produit-avec-le-rgesn/"
+from = "/ressources/2025-04-24-auditer-un-produit-avec-le-rgesn/index.html"
 to = "/ressources/2025-04-23-auditer-un-produit-avec-le-rgesn/"
 
 [[redirects]]
-from = "/conception-e-learning/"
+from = "/conception-e-learning/index.html"
 to = "/offre-de-services/conception-e-learning/"
 
 [[redirects]]
-from = "/ressources/2026-01-06-barometre-de-lecoconception-dans-le-digital-learning/"
+from = "/ressources/2026-01-06-barometre-de-lecoconception-dans-le-digital-learning/index.html"
 to = "/ressources/2026-01-26-barometre-de-lecoconception-dans-le-digital-learning/"
 
 [[redirects]]
-from = "/ressources/2025-05-26-ia-un-probleme/"
+from = "/ressources/2025-05-26-ia-un-probleme/index.html"
 to = "/ressources/2025-05-23-ia-un-probleme/"
 
 [[redirects]]
-from = "/portfolio/2022-module-agir-pour-le-climat/"
+from = "/portfolio/2022-module-agir-pour-le-climat/index.html"
 to = "/portfolio/2022-agir-pour-le-climat/"
 
 [[redirects]]
-from = "/ressources/2025-03-25-faire-face-aux-risques-du-secteur-numerique-1/"
+from = "/ressources/2025-03-25-faire-face-aux-risques-du-secteur-numerique-1/index.html"
 to = "/ressources/2025-03-25-faire-face-aux-risques-du-secteur-numerique/"
 
 [[redirects]]
-from = "/portfolio/conception/"
+from = "/portfolio/conception/index.html"
 to = "/portfolio/conception-pedagogique/"
 
 [[redirects]]
-from = "/offre-de-services/formation-responsable/"
+from = "/offre-de-services/formation-responsable/index.html"
 to = "/offre-de-services/formation/"
 
 [[redirects]]
-from = "/offre-de-services/digital-learning/"
+from = "/offre-de-services/digital-learning/index.html"
 to = "/offre-de-services/conception-e-learning/"
 
 [[redirects]]
-from = "/ressources/2024-09-16-glossaire-numerique-responsable/"
+from = "/ressources/2024-09-16-glossaire-numerique-responsable/index.html"
 to = "/ressources/2024-10-11-glossaire-numerique-responsable/"
 
 [[redirects]]
-from = "/ressources/ecoconception/"
+from = "/ressources/ecoconception/index.html"
 to = "/ressources/ecoconception-numerique/"
 
 [[redirects]]
-from = "/ressources/2025-04-07-glossaire-numerique-responsable/"
+from = "/ressources/2025-04-07-glossaire-numerique-responsable/index.html"
 to = "/ressources/2024-10-11-glossaire-numerique-responsable/"
 
 [[redirects]]
-from = "/2022-agir-pour-le-climat/"
+from = "/2022-agir-pour-le-climat/index.html"
 to = "/portfolio/2022-agir-pour-le-climat/"
 
 [[redirects]]
-from = "/portfolio/ingenierie-pedagogique-2/"
+from = "/portfolio/ingenierie-pedagogique-2/index.html"
 to = "/portfolio/ingenierie/"
 
 [[redirects]]
-from = "/formation/"
+from = "/formation/index.html"
 to = "/offre-de-services/formation/"
 
 [[redirects]]
-from = "/formations/"
+from = "/formations/index.html"
 to = "/offre-de-services/formation/"
 
 [[redirects]]
-from = "/ressources/2026-01-18-des-outils-libres-pour-leducation/"
+from = "/ressources/2026-01-18-des-outils-libres-pour-leducation/index.html"
 to = "/ressources/2026-01-08-des-outils-libres-pour-leducation/"
 
 [[redirects]]
-from = "/ressources/2025-11-18-accessibilite-inclusion-au-dela-de-la-conformite/"
+from = "/ressources/2025-11-18-accessibilite-inclusion-au-dela-de-la-conformite/index.html"
 to = "/ressources/2025-11-19-accessibilite-inclusion-au-dela-de-la-conformite/"
 
 [[redirects]]
-from = "/ressources/2025-04-27-conception-pedagogique-responsable-par-ou-commencer/"
+from = "/ressources/2025-04-27-conception-pedagogique-responsable-par-ou-commencer/index.html"
 to = "/ressources/2025-04-28-conception-pedagogique-responsable-par-ou-commencer/"
 
 [[redirects]]
-from = "/ressources/2026-01-05-barometre-de-lecoconception-dans-le-digital-learning/"
+from = "/ressources/2026-01-05-barometre-de-lecoconception-dans-le-digital-learning/index.html"
 to = "/ressources/2026-01-26-barometre-de-lecoconception-dans-le-digital-learning/"
 
 [[redirects]]
-from = "/responsabilites-numeriques/"
+from = "/responsabilites-numeriques/index.html"
 to = "/offre-de-services/formation/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/portfolio/"
 
 [[redirects]]
-from = "/digital-learning/"
+from = "/digital-learning/index.html"
 to = "/offre-de-services/conception-e-learning/"
 
 [[redirects]]
-from = "/ressources/risques/"
+from = "/ressources/risques/index.html"
 to = "/ressources/risques-numeriques/"
 
 [[redirects]]
-from = "/portfolio/chefferie-de-projet/"
+from = "/portfolio/chefferie-de-projet/index.html"
 to = "/portfolio/direction-de-projet/"
 
 [[redirects]]
-from = "/portfolio/conception-e-learning/"
+from = "/portfolio/conception-e-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
-from = "/portfolio/2025-plateforme-sur-la-route/"
+from = "/portfolio/2025-plateforme-sur-la-route/index.html"
 to = "/portfolio/2025-sur-la-route/"
 
 [[redirects]]
-from = "/ressources/2025-05-25-ia-un-probleme/"
+from = "/ressources/2025-05-25-ia-un-probleme/index.html"
 to = "/ressources/2025-05-23-ia-un-probleme/"
 
 [[redirects]]
-from = "/portfolio/redaction/"
+from = "/portfolio/redaction/index.html"
 to = "/portfolio/conception-pedagogique/"
 
 [[redirects]]
-from = "/portfolio/digital-learning/"
+from = "/portfolio/digital-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
-from = "/redaction/"
+from = "/redaction/index.html"
 to = "/offre-de-services/redaction/"
 
 [[redirects]]
-from = "/ressources/intelligence-artificielle/"
+from = "/ressources/intelligence-artificielle/index.html"
 to = "/ressources/risques-numeriques/"
 
 [[redirects]]
-from = "/2024-formation-risques-numeriques-et-resilience/"
+from = "/2024-formation-risques-numeriques-et-resilience/index.html"
 to = "/portfolio/2024-risques-numeriques-et-resilience/"
 
 [[redirects]]
-from = "/ressources/2025-05-25-soba-lms/"
+from = "/ressources/2025-05-25-soba-lms/index.html"
 to = "/ressources/2025-08-11-soba-lms/"
 
