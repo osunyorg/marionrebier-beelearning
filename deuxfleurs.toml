@@ -68,7 +68,7 @@ to = "/ressources/2025-09-15-sobriete-editoriale-reduire-son-impact-environnemen
 
 [[redirects]]
 from = "/portfolio/2024-activite-les-7-messages-cles/index.html"
-to = "/portfolio/2024-les-7-messages-cles/"
+to = "/portfolio/2026-activites-pedagogiques-1/"
 
 [[redirects]]
 from = "/formation-responsable/index.html"
@@ -201,6 +201,10 @@ to = "/portfolio/ingenierie/"
 [[redirects]]
 from = "/formation/index.html"
 to = "/offre-de-services/formation/"
+
+[[redirects]]
+from = "/portfolio/2024-les-7-messages-cles/index.html"
+to = "/portfolio/2026-activites-pedagogiques-1/"
 
 [[redirects]]
 from = "/formations/index.html"
