@@ -20,7 +20,7 @@ to = "/offre-de-services/redaction/"
 
 [[redirects]]
 from = "/ingenierie-pedagogique-2/index.html"
-to = "/portfolio/ingenierie/"
+to = "/portfolio/ingenierie-pedagogique-2/"
 
 [[redirects]]
 from = "/actualites/2024-09-16-glossaire-numerique-responsable/index.html"
@@ -111,6 +111,10 @@ from = "/portfolio/e-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
+from = "/portfolio/ingenierie/index.html"
+to = "/portfolio/ingenierie-pedagogique-2/"
+
+[[redirects]]
 from = "/ressources/2025-03-07-glossaire-numerique-responsable/index.html"
 to = "/ressources/2024-10-11-glossaire-numerique-responsable/"
 
@@ -193,10 +197,6 @@ to = "/ressources/2024-10-11-glossaire-numerique-responsable/"
 [[redirects]]
 from = "/2022-agir-pour-le-climat/index.html"
 to = "/portfolio/2022-agir-pour-le-climat/"
-
-[[redirects]]
-from = "/portfolio/ingenierie-pedagogique-2/index.html"
-to = "/portfolio/ingenierie/"
 
 [[redirects]]
 from = "/formation/index.html"
