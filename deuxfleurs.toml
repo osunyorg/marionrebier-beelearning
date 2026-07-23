@@ -75,6 +75,10 @@ from = "/formation-responsable/index.html"
 to = "/offre-de-services/formation/"
 
 [[redirects]]
+from = "/accessibilite/index.html"
+to = "/responsabilites-numeriques/"
+
+[[redirects]]
 from = "/offre-de-services/e-learning/index.html"
 to = "/offre-de-services/conception-e-learning/"
 
@@ -229,10 +233,6 @@ to = "/ressources/2025-04-28-conception-pedagogique-responsable-par-ou-commencer
 [[redirects]]
 from = "/ressources/2026-01-05-barometre-de-lecoconception-dans-le-digital-learning/index.html"
 to = "/ressources/2026-01-26-barometre-de-lecoconception-dans-le-digital-learning/"
-
-[[redirects]]
-from = "/responsabilites-numeriques/index.html"
-to = "/offre-de-services/formation/"
 
 [[redirects]]
 from = "/projets/index.html"
