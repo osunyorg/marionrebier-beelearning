@@ -32,7 +32,7 @@ to = "/ressources/2025-05-23-ia-un-probleme/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurrices/index.html"
-to = "/offre-de-services/formation/eco-socio-conception-de-formations/"
+to = "/offre-de-services/formation/eco-socio-conception-de-formations-debutant/"
 
 [[redirects]]
 from = "/ressources/2025-08-18-soba-lms/index.html"
@@ -47,8 +47,12 @@ from = "/ressources/2025-06-16-grand-entretien-avec-olivier-hamant/index.html"
 to = "/ressources/2025-06-14-grand-entretien-avec-olivier-hamant/"
 
 [[redirects]]
+from = "/offre-de-services/formation/eco-socio-conception-de-formations-2-jours/index.html"
+to = "/offre-de-services/formation/eco-socio-conception-de-formations-debutant/"
+
+[[redirects]]
 from = "/offre-de-services/eco-socio-conception-de-formations/index.html"
-to = "/offre-de-services/formation/eco-socio-conception-de-formations/"
+to = "/offre-de-services/formation/eco-socio-conception-de-formations-debutant/"
 
 [[redirects]]
 from = "/ressources/2026-02-12-des-outils-libres-pour-leducation/index.html"
@@ -172,7 +176,7 @@ to = "/offre-de-services/formation/numerique-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurices/index.html"
-to = "/offre-de-services/formation/eco-socio-conception-de-formations/"
+to = "/offre-de-services/formation/eco-socio-conception-de-formations-debutant/"
 
 [[redirects]]
 from = "/ressources/2025-04-24-auditer-un-produit-avec-le-rgesn/index.html"
@@ -301,4 +305,8 @@ to = "/portfolio/2024-risques-numeriques-et-resilience/"
 [[redirects]]
 from = "/ressources/2025-05-25-soba-lms/index.html"
 to = "/ressources/2025-08-11-soba-lms/"
+
+[[redirects]]
+from = "/offre-de-services/formation/eco-socio-conception-de-formations/index.html"
+to = "/offre-de-services/formation/eco-socio-conception-de-formations-debutant/"
 
