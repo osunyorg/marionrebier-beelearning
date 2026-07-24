@@ -25,8 +25,18 @@ items:
     descendants_targets: []
     path: "/pages/offre-de-services/conception-e-learning"
     file: content/fr/pages/offre-de-services/conception-e-learning/_index.html
+  - title: Formation
+    slug: formation
+    target: "/offre-de-services/formation/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/offre-de-services/formation"
+    file: content/fr/pages/offre-de-services/formation/_index.html
   descendants_targets:
   - "/offre-de-services/conception-e-learning/"
+  - "/offre-de-services/formation/"
   - "/offre-de-services/ingenierie-pedagogique/"
   path: "/pages/offre-de-services"
   file: content/fr/pages/offre-de-services/_index.html
