@@ -59,6 +59,10 @@ from = "/conception-digital-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
+from = "/offre-de-services/formation/formation-numerique-responsable/index.html"
+to = "/offre-de-services/formation/numerique-responsable/"
+
+[[redirects]]
 from = "/portfolio/direction-de-projet-2/index.html"
 to = "/portfolio/direction-de-projet/"
 
