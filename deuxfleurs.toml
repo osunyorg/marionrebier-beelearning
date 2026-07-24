@@ -32,15 +32,11 @@ to = "/ressources/2025-05-23-ia-un-probleme/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurrices/index.html"
-to = "/offre-de-services/eco-socio-conception-de-formations/"
+to = "/offre-de-services/formation/eco-socio-conception-de-formations/"
 
 [[redirects]]
 from = "/ressources/2025-08-18-soba-lms/index.html"
 to = "/ressources/2025-08-11-soba-lms/"
-
-[[redirects]]
-from = "/offre-de-services/formation/index.html"
-to = "/offre-de-services/numerique-responsable/"
 
 [[redirects]]
 from = "/ressources/droits-humains/index.html"
@@ -49,6 +45,10 @@ to = "/ressources/extraction-miniere/"
 [[redirects]]
 from = "/ressources/2025-06-16-grand-entretien-avec-olivier-hamant/index.html"
 to = "/ressources/2025-06-14-grand-entretien-avec-olivier-hamant/"
+
+[[redirects]]
+from = "/offre-de-services/eco-socio-conception-de-formations/index.html"
+to = "/offre-de-services/formation/eco-socio-conception-de-formations/"
 
 [[redirects]]
 from = "/ressources/2026-02-12-des-outils-libres-pour-leducation/index.html"
@@ -76,7 +76,7 @@ to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formation-responsable/index.html"
-to = "/offre-de-services/numerique-responsable/"
+to = "/offre-de-services/formation/numerique-responsable/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
@@ -147,6 +147,10 @@ from = "/portfolio/2026-activites-pedagogiques-1/index.html"
 to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
+from = "/formation/index.html"
+to = "/offre-de-services/formation/"
+
+[[redirects]]
 from = "/ressources/pedagogie-et-responsabilites/index.html"
 to = "/ressources/formation-responsable/"
 
@@ -159,8 +163,12 @@ from = "/ressources/2025-08-18-sobriete-editoriale-reduire-son-impact-environnem
 to = "/ressources/2025-09-15-sobriete-editoriale-reduire-son-impact-environnemental/"
 
 [[redirects]]
+from = "/offre-de-services/numerique-responsable/index.html"
+to = "/offre-de-services/formation/numerique-responsable/"
+
+[[redirects]]
 from = "/offre-de-services/formation-de-formateurices/index.html"
-to = "/offre-de-services/eco-socio-conception-de-formations/"
+to = "/offre-de-services/formation/eco-socio-conception-de-formations/"
 
 [[redirects]]
 from = "/ressources/2025-04-24-auditer-un-produit-avec-le-rgesn/index.html"
@@ -192,7 +200,7 @@ to = "/portfolio/conception-pedagogique/"
 
 [[redirects]]
 from = "/offre-de-services/formation-responsable/index.html"
-to = "/offre-de-services/numerique-responsable/"
+to = "/offre-de-services/formation/numerique-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/digital-learning/index.html"
@@ -215,16 +223,12 @@ from = "/2022-agir-pour-le-climat/index.html"
 to = "/portfolio/2022-agir-pour-le-climat/"
 
 [[redirects]]
-from = "/formation/index.html"
-to = "/offre-de-services/numerique-responsable/"
-
-[[redirects]]
 from = "/portfolio/2024-les-7-messages-cles/index.html"
 to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formations/index.html"
-to = "/offre-de-services/numerique-responsable/"
+to = "/offre-de-services/formation/numerique-responsable/"
 
 [[redirects]]
 from = "/ressources/2026-01-18-des-outils-libres-pour-leducation/index.html"
