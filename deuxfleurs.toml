@@ -160,7 +160,7 @@ to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formation/index.html"
-to = "/offre-de-services/formation/"
+to = "/offre/formation/"
 
 [[redirects]]
 from = "/ressources/pedagogie-et-responsabilites/index.html"
@@ -197,6 +197,10 @@ to = "/ressources/2025-04-23-auditer-un-produit-avec-le-rgesn/"
 [[redirects]]
 from = "/conception-e-learning/index.html"
 to = "/offre-de-services/conception-e-learning/"
+
+[[redirects]]
+from = "/offre-de-services/index.html"
+to = "/offre/"
 
 [[redirects]]
 from = "/ressources/2026-01-06-barometre-de-lecoconception-dans-le-digital-learning/index.html"
@@ -297,6 +301,10 @@ to = "/ressources/2025-05-23-ia-un-probleme/"
 [[redirects]]
 from = "/portfolio/redaction/index.html"
 to = "/portfolio/conception-pedagogique/"
+
+[[redirects]]
+from = "/offre-de-services/formation/index.html"
+to = "/offre/formation/"
 
 [[redirects]]
 from = "/portfolio/digital-learning/index.html"
