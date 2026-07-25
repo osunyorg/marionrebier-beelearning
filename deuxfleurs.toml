@@ -32,7 +32,7 @@ to = "/ressources/2025-05-23-ia-un-probleme/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurrices/index.html"
-to = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations/"
 
 [[redirects]]
 from = "/ressources/2025-08-18-soba-lms/index.html"
@@ -44,7 +44,7 @@ to = "/ressources/extraction-miniere/"
 
 [[redirects]]
 from = "/offre-de-services/formation/eco-socio-conception-de-formations-2-jours/index.html"
-to = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations/"
 
 [[redirects]]
 from = "/ressources/2025-06-16-grand-entretien-avec-olivier-hamant/index.html"
@@ -52,11 +52,11 @@ to = "/ressources/2025-06-14-grand-entretien-avec-olivier-hamant/"
 
 [[redirects]]
 from = "/offre-de-services/eco-socio-conception-de-formations/index.html"
-to = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations/"
 
 [[redirects]]
 from = "/offre-de-services/formation/eco-socio-conception-de-formations-debutant/index.html"
-to = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations/"
 
 [[redirects]]
 from = "/ressources/2026-02-12-des-outils-libres-pour-leducation/index.html"
@@ -68,7 +68,7 @@ to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
 from = "/offre-de-services/formation/formation-numerique-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-responsable/"
 
 [[redirects]]
 from = "/portfolio/direction-de-projet-2/index.html"
@@ -88,7 +88,7 @@ to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formation-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-responsable/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
@@ -115,12 +115,16 @@ from = "/ressources/2025-10-23-laccessibilite-des-formations-quelques-bonnes-pra
 to = "/ressources/2025-10-27-accessibilite-des-formations-bonnes-pratiques/"
 
 [[redirects]]
+from = "/offre-de-services/formation/inventons-nos-vies-bas-carbone/index.html"
+to = "/services/formation/inventons-nos-vies-bas-carbone/"
+
+[[redirects]]
 from = "/ressources/2025-11-10-accessibilite-inclusion-au-dela-de-la-conformite/index.html"
 to = "/ressources/2025-11-19-accessibilite-inclusion-au-dela-de-la-conformite/"
 
 [[redirects]]
 from = "/ingenierie-pedagogique/index.html"
-to = "/offre-de-services/ingenierie-pedagogique/"
+to = "/services/ingenierie-pedagogique/"
 
 [[redirects]]
 from = "/agenda/index.html"
@@ -132,7 +136,7 @@ to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
 from = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-responsable/"
 
 [[redirects]]
 from = "/portfolio/ingenierie/index.html"
@@ -159,6 +163,10 @@ from = "/portfolio/2024-formation-risques-numeriques-et-resilience/index.html"
 to = "/portfolio/2024-risques-numeriques-et-resilience/"
 
 [[redirects]]
+from = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/index.html"
+to = "/services/formation/eco-socio-concevoir-ses-formations/"
+
+[[redirects]]
 from = "/portfolio/2026-activites-pedagogiques-1/index.html"
 to = "/portfolio/2026-jeu-trois-rivieres/"
 
@@ -180,19 +188,23 @@ to = "/ressources/2025-09-15-sobriete-editoriale-reduire-son-impact-environnemen
 
 [[redirects]]
 from = "/offre-de-services/formation/numerique-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/numerique-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurices/index.html"
-to = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations/"
+
+[[redirects]]
+from = "/offre-de-services/ingenierie-pedagogique/index.html"
+to = "/services/ingenierie-pedagogique/"
 
 [[redirects]]
 from = "/offre-de-services/formation/eco-socio-conception-de-formations/index.html"
-to = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations/"
 
 [[redirects]]
 from = "/ressources/2025-04-24-auditer-un-produit-avec-le-rgesn/index.html"
@@ -205,6 +217,10 @@ to = "/offre-de-services/conception-e-learning/"
 [[redirects]]
 from = "/offre/index.html"
 to = "/services/"
+
+[[redirects]]
+from = "/offre-de-services/formation/fresque-du-numerique/index.html"
+to = "/services/formation/fresque-du-numerique/"
 
 [[redirects]]
 from = "/offre-de-services/index.html"
@@ -236,7 +252,7 @@ to = "/portfolio/conception-pedagogique/"
 
 [[redirects]]
 from = "/offre-de-services/formation-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/digital-learning/index.html"
@@ -259,12 +275,16 @@ from = "/2022-agir-pour-le-climat/index.html"
 to = "/portfolio/2022-agir-pour-le-climat/"
 
 [[redirects]]
+from = "/services/formation/adopter-un-numerique-plus-responsable/index.html"
+to = "/services/formation/adopter-un-numerique-responsable/"
+
+[[redirects]]
 from = "/portfolio/2024-les-7-messages-cles/index.html"
 to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formations/index.html"
-to = "/services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-responsable/"
 
 [[redirects]]
 from = "/ressources/2026-01-18-des-outils-libres-pour-leducation/index.html"
