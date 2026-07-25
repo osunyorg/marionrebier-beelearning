@@ -68,7 +68,7 @@ to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
 from = "/offre-de-services/formation/formation-numerique-responsable/index.html"
-to = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/portfolio/direction-de-projet-2/index.html"
@@ -88,7 +88,7 @@ to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formation-responsable/index.html"
-to = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
@@ -129,6 +129,10 @@ to = "/ressources/"
 [[redirects]]
 from = "/portfolio/e-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
+
+[[redirects]]
+from = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/index.html"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/portfolio/ingenierie/index.html"
@@ -176,11 +180,11 @@ to = "/ressources/2025-09-15-sobriete-editoriale-reduire-son-impact-environnemen
 
 [[redirects]]
 from = "/offre-de-services/formation/numerique-responsable/index.html"
-to = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/numerique-responsable/index.html"
-to = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurices/index.html"
@@ -232,7 +236,7 @@ to = "/portfolio/conception-pedagogique/"
 
 [[redirects]]
 from = "/offre-de-services/formation-responsable/index.html"
-to = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/digital-learning/index.html"
@@ -260,7 +264,7 @@ to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formations/index.html"
-to = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/ressources/2026-01-18-des-outils-libres-pour-leducation/index.html"
