@@ -96,7 +96,7 @@ to = "/responsabilites-numeriques/"
 
 [[redirects]]
 from = "/offre-de-services/e-learning/index.html"
-to = "/offre-de-services/conception-e-learning/"
+to = "/services/conception-e-learning/"
 
 [[redirects]]
 from = "/ressources/accessibilite/index.html"
@@ -212,7 +212,7 @@ to = "/ressources/2025-04-23-auditer-un-produit-avec-le-rgesn/"
 
 [[redirects]]
 from = "/conception-e-learning/index.html"
-to = "/offre-de-services/conception-e-learning/"
+to = "/services/conception-e-learning/"
 
 [[redirects]]
 from = "/offre/index.html"
@@ -256,7 +256,7 @@ to = "/services/formation/adopter-un-numerique-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/digital-learning/index.html"
-to = "/offre-de-services/conception-e-learning/"
+to = "/services/conception-e-learning/"
 
 [[redirects]]
 from = "/ressources/2024-09-16-glossaire-numerique-responsable/index.html"
@@ -273,6 +273,10 @@ to = "/ressources/2024-10-11-glossaire-numerique-responsable/"
 [[redirects]]
 from = "/2022-agir-pour-le-climat/index.html"
 to = "/portfolio/2022-agir-pour-le-climat/"
+
+[[redirects]]
+from = "/offre-de-services/conception-e-learning/index.html"
+to = "/services/conception-e-learning/"
 
 [[redirects]]
 from = "/services/formation/adopter-un-numerique-plus-responsable/index.html"
@@ -308,7 +312,7 @@ to = "/portfolio/"
 
 [[redirects]]
 from = "/digital-learning/index.html"
-to = "/offre-de-services/conception-e-learning/"
+to = "/services/conception-e-learning/"
 
 [[redirects]]
 from = "/ressources/risques/index.html"
