@@ -167,6 +167,10 @@ from = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/index.ht
 to = "/services/formation/eco-socio-concevoir-ses-formations/"
 
 [[redirects]]
+from = "/offre-de-services/formation/econum/index.html"
+to = "/services/formation/econum/"
+
+[[redirects]]
 from = "/portfolio/2026-activites-pedagogiques-1/index.html"
 to = "/portfolio/2026-jeu-trois-rivieres/"
 
