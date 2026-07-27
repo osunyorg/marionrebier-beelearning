@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Offre de services
-  slug: offre-de-services
+- title: Services
+  slug: services
   target: "/services/"
   kind: page
   new_tab: false
