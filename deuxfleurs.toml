@@ -331,6 +331,10 @@ from = "/portfolio/conception-e-learning/index.html"
 to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/trois-rivieres-fiche-pedagogique-version-betapdf/"
+
+[[redirects]]
 from = "/portfolio/2025-plateforme-sur-la-route/index.html"
 to = "/portfolio/2025-sur-la-route/"
 
