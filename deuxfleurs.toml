@@ -68,7 +68,7 @@ to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
 from = "/offre-de-services/formation/formation-numerique-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/portfolio/direction-de-projet-2/index.html"
@@ -88,7 +88,7 @@ to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formation-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
@@ -136,7 +136,7 @@ to = "/portfolio/conception-e-learning-2/"
 
 [[redirects]]
 from = "/offre-de-services/formation/adopter-un-numerique-plus-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/portfolio/ingenierie/index.html"
@@ -192,11 +192,11 @@ to = "/ressources/2025-09-15-sobriete-editoriale-reduire-son-impact-environnemen
 
 [[redirects]]
 from = "/offre-de-services/formation/numerique-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/numerique-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurices/index.html"
@@ -205,6 +205,10 @@ to = "/services/formation/eco-socio-concevoir-ses-formations/"
 [[redirects]]
 from = "/offre-de-services/ingenierie-pedagogique/index.html"
 to = "/services/ingenierie-pedagogique/"
+
+[[redirects]]
+from = "/services/formation/adopter-un-numerique-responsable/index.html"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/formation/eco-socio-conception-de-formations/index.html"
@@ -256,7 +260,7 @@ to = "/portfolio/conception-pedagogique/"
 
 [[redirects]]
 from = "/offre-de-services/formation-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/digital-learning/index.html"
@@ -283,16 +287,12 @@ from = "/offre-de-services/conception-e-learning/index.html"
 to = "/services/conception-e-learning/"
 
 [[redirects]]
-from = "/services/formation/adopter-un-numerique-plus-responsable/index.html"
-to = "/services/formation/adopter-un-numerique-responsable/"
-
-[[redirects]]
 from = "/portfolio/2024-les-7-messages-cles/index.html"
 to = "/portfolio/2026-jeu-trois-rivieres/"
 
 [[redirects]]
 from = "/formations/index.html"
-to = "/services/formation/adopter-un-numerique-responsable/"
+to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/ressources/2026-01-18-des-outils-libres-pour-leducation/index.html"
