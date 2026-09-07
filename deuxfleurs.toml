@@ -32,7 +32,7 @@ to = "/ressources/2025-05-23-ia-un-probleme/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurrices/index.html"
-to = "/services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations-2-jours/"
 
 [[redirects]]
 from = "/ressources/2025-08-18-soba-lms/index.html"
@@ -44,7 +44,7 @@ to = "/ressources/extraction-miniere/"
 
 [[redirects]]
 from = "/offre-de-services/formation/eco-socio-conception-de-formations-2-jours/index.html"
-to = "/services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations-2-jours/"
 
 [[redirects]]
 from = "/ressources/2025-06-16-grand-entretien-avec-olivier-hamant/index.html"
@@ -52,11 +52,11 @@ to = "/ressources/2025-06-14-grand-entretien-avec-olivier-hamant/"
 
 [[redirects]]
 from = "/offre-de-services/eco-socio-conception-de-formations/index.html"
-to = "/services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations-2-jours/"
 
 [[redirects]]
 from = "/offre-de-services/formation/eco-socio-conception-de-formations-debutant/index.html"
-to = "/services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations-2-jours/"
 
 [[redirects]]
 from = "/ressources/2026-02-12-des-outils-libres-pour-leducation/index.html"
@@ -164,7 +164,7 @@ to = "/portfolio/2024-risques-numeriques-et-resilience/"
 
 [[redirects]]
 from = "/offre-de-services/formation/eco-socio-concevoir-ses-formations/index.html"
-to = "/services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations-2-jours/"
 
 [[redirects]]
 from = "/offre-de-services/formation/econum/index.html"
@@ -200,7 +200,7 @@ to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/formation-de-formateurices/index.html"
-to = "/services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations-2-jours/"
 
 [[redirects]]
 from = "/offre-de-services/ingenierie-pedagogique/index.html"
@@ -212,7 +212,7 @@ to = "/services/formation/adopter-un-numerique-plus-responsable/"
 
 [[redirects]]
 from = "/offre-de-services/formation/eco-socio-conception-de-formations/index.html"
-to = "/services/formation/eco-socio-concevoir-ses-formations/"
+to = "/services/formation/eco-socio-concevoir-ses-formations-2-jours/"
 
 [[redirects]]
 from = "/ressources/2025-04-24-auditer-un-produit-avec-le-rgesn/index.html"
@@ -337,6 +337,10 @@ to = "/fichiers/2026/trois-rivieres-fiche-pedagogique-version-betapdf/"
 [[redirects]]
 from = "/portfolio/2025-plateforme-sur-la-route/index.html"
 to = "/portfolio/2025-sur-la-route/"
+
+[[redirects]]
+from = "/services/formation/eco-socio-concevoir-ses-formations/index.html"
+to = "/services/formation/eco-socio-concevoir-ses-formations-2-jours/"
 
 [[redirects]]
 from = "/ressources/2025-05-25-ia-un-probleme/index.html"
